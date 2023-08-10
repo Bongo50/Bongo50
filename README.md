@@ -6,9 +6,9 @@
   - Basic CSS
   - Basic JavaScript
   - Python
-  - Lua (apart from metatables. I haven't got *there* yet)
+  - Lua (apart from metatables)
   - Very basic Java
-  - Very basic C# (I haven't used it for *ages*)
+  - Very, very basic C# (I haven't used it for *ages*)
   - Wikitext (you can do some very complex stuff in Wikitext!)
 - How to reach me:
   - Discord: Bongo50#7538
