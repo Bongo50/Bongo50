@@ -11,4 +11,4 @@
   - Very, very basic C# (I haven't used it for *ages*)
   - Wikitext (you can do some very complex stuff in Wikitext!)
 - How to reach me:
-  - Discord: Bongo50#7538
+  - Discord: bongo50
