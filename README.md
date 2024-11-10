@@ -1,14 +1,10 @@
 - Hi, I’m @Bongo50
 - I’m interested in wikis and Doctor Who.
-- I’m currently learning Lua.
 - I'm comforable with:
   - HTML
-  - Basic CSS
+  - CSS
   - Basic JavaScript
   - Python
-  - Lua (apart from metatables)
-  - Very basic Java
-  - Very, very basic C# (I haven't used it for *ages*)
-  - Wikitext (you can do some very complex stuff in Wikitext!)
+  - Lua
 - How to reach me:
   - Discord: bongo50
